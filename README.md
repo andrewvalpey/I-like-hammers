@@ -1,2 +1,3 @@
 # I-like-hammers
 I like hammers... 
+This is a little about myself: I am currently enlisted a MCAS New River and I fix aircraft for a living.
